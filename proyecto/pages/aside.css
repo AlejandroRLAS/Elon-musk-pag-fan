@@ -1,0 +1,40 @@
+#Elon-position{
+    width: 400px;
+    justify-content: center;
+
+}
+
+.elon-musk{
+    
+    padding: 10%;
+    position: ;
+    top: 10%;
+    left: 20%;
+    
+}
+
+.background-elon-musk{
+    background-color: black;
+    mask-position: 30px;
+
+}
+
+.img-elon-musk{
+
+    position: absolute;
+    right: 300px;
+
+
+}
+
+@media (max-width:1200px) {
+    .elon-musk{
+    
+        padding: 0%;
+        position: relative;
+        top: 10%;
+        left: 20%;
+        
+    }
+    
+}
